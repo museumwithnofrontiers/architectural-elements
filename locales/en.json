@@ -1,13 +1,4 @@
 {
-  "architecturalElements.identity.organisation": "Museum With No Frontiers",
-  "architecturalElements.identity.title": "architectural-elements",
-  "architecturalElements.identity.copyright": "© Museum With No Frontiers",
-  "architecturalElements.home.intro": "Welcome to architectural-elements.",
-  "architecturalElements.home.catalogueText": "Browse every item by country and date.",
-  "architecturalElements.home.itemOnDisplay": "Item on display",
-  "architecturalElements.nav.catalogue": "Catalogue",
-  "architecturalElements.nav.about": "About",
-  "architecturalElements.about.body": "This website is published by Museum With No Frontiers. Replace this text with what architectural-elements is and who made it.",
   "architecturalElements.credits.body": "MUSEUM WITH NO FRONTIERS **\\[MWNF\\]**  \n*ARCHITECTURAL ELEMENTS* VIRTUAL MUSEUM  \n(Provisional list, updated April 2020)  \n  \n  \n**NOTE**  \nFor now, in this Gallery you will find artefacts related to *Architectural Elements* from other MWNF databases, namely [Discover Islamic Art](https://islamicart.museumwnf.org/), [Discover Baroque Art](https://baroqueart.museumwnf.org/) and [Sharing History](https://sharinghistory.museumwnf.org/)... **MWNF TEAM**  \nEva SCHUBERT (idea and overall coordination)  \nSarah HOENIGSCHNABEL (content management, upload)  \nPascal HAVELANGE (database maintenance, application program interface)  \nEva WOO (web development, navigation and design updates)  \n  \nCopy-editors:",
   "gallery.about.body": "Welcome to MWNF Galleries!  \n  \nEach Gallery focuses on a specific medium, which means a specific material or type of object. This Gallery is dedicated to **Architectural Elements**.  \n  \n...We suggest you start your visit in the [Collection](https://architectural-elements.museumwnf.org/collection)... the [Partner](https://architectural-elements.museumwnf.org/partners) section... the [Timeline](https://architectural-elements.museumwnf.org/timeline)... [My Collection](https://www.museumwnf.org/mycollection/index.php)... [here](https://www.museumwnf.org/database_searchform.php) or go to the above-mentioned projects to search their databases."
 }
