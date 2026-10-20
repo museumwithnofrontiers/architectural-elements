@@ -18,8 +18,9 @@ describeGallerySmoke({
       tiles: 9,
       paginations: 2,
     },
-    about: 'Architectural Elements',
-    credits: 'MWNF TEAM',
+    // Lines the first text extraction had cut (inventory-app#2233, T4).
+    about: 'Please be aware that the Search tool covers only the artefacts in this Gallery.',
+    credits: 'For entries from previous projects please refer to:',
     chip: {
       item: 'f88193ec-c618-5df9-8728-cdb15d419ec4',
       project: 'Discover Islamic Art',
